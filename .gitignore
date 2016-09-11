@@ -1,3 +1,4 @@
 *.class
 /07/VMTranslator/*
 /13/*
+/tools/bin/*.dat
